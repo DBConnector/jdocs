@@ -1,0 +1,6 @@
+$dokka.format:javadoc-v1
+$dokka.linkExtension:html
+
+me.axolotldev.dbc.core
+me.axolotldev.dbc.core.connect
+me.axolotldev.dbc.core.connect.internal

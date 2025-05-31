@@ -1,0 +1,1 @@
+var packageSearchIndex = [{"l":"me.axolotldev.dbc.abstracts","url":"me/axolotldev/dbc/abstracts/package-summary.html"}, {"l":"me.axolotldev.dbc.abstracts.database","url":"me/axolotldev/dbc/abstracts/database/package-summary.html"}, {"l":"All packages","url":"index.html"}]

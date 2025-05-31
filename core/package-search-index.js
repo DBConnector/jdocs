@@ -1,0 +1,1 @@
+var packageSearchIndex = [{"l":"me.axolotldev.dbc.core","url":"me/axolotldev/dbc/core/package-summary.html"}, {"l":"me.axolotldev.dbc.core.connect","url":"me/axolotldev/dbc/core/connect/package-summary.html"}, {"l":"me.axolotldev.dbc.core.connect.internal","url":"me/axolotldev/dbc/core/connect/internal/package-summary.html"}, {"l":"All packages","url":"index.html"}]
