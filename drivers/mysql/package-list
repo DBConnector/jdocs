@@ -1,0 +1,4 @@
+$dokka.format:javadoc-v1
+$dokka.linkExtension:html
+$dokka.location:me.axolotldev.dbconnector.driver/MySQLDriverData.Companion///PointingToDeclaration/me/axolotldev/dbconnector/driver/MySQLDriverData.Companion.html
+me.axolotldev.dbconnector.driver

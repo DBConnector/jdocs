@@ -1,0 +1,1 @@
+var packageSearchIndex = [{"l":"me.axolotldev.dbconnector.driver","url":"me/axolotldev/dbconnector/driver/package-summary.html"}, {"l":"All packages","url":"index.html"}]
