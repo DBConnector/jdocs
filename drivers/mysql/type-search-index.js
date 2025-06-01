@@ -1,1 +1,1 @@
-var typeSearchIndex = [{"p":"me.axolotldev.dbconnector.driver","l":"MySQLDriverData.Companion","url":"me/axolotldev/dbconnector/driver/MySQLDriverData.Companion.html"}, {"p":"me.axolotldev.dbconnector.driver","l":"MySQLDriverData","url":"me/axolotldev/dbconnector/driver/MySQLDriverData.html"}, {"l":"All classes","url":"allclasses.html"}]
+var typeSearchIndex = [{"p":"me.axolotldev.dbconnector.driver","l":"MySQLDriverData","url":"me/axolotldev/dbconnector/driver/MySQLDriverData.html"}, {"l":"All classes","url":"allclasses.html"}]
